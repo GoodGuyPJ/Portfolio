@@ -1,4 +1,4 @@
-# Project Name
+#  Portfolio
 
 ## Overview
 Welcome to the Personla Portfolio repository! This project is a simple Portfolio for myself. It's built using react and aims to show my experience.
